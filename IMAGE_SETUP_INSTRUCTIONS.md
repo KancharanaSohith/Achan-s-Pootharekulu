@@ -2,27 +2,27 @@
 
 ## Required Images
 
-You need to save your actual images with these exact names in the `images/` folder:
+You need to save your actual images with these exact names in the `public/images/` folder:
 
 ### 1. Logo Image
 - **File Name**: `achans-logo.jpeg`
-- **Location**: `images/achans-logo.jpeg`
+- **Location**: `public/images/achans-logo.jpeg`
 - **Description**: Your ACHAN'S logo with yellow splash design
 - **Recommended Size**: 200x100px (or similar aspect ratio)
 - **Format**: JPEG (for better compatibility)
 
 ### 2. Product Image
 - **File Name**: `pootharekulu-product.jpeg`
-- **Location**: `images/pootharekulu-product.jpeg`
+- **Location**: `public/images/pootharekulu-product.jpeg`
 - **Description**: Your actual Pootharekulu product photo
 - **Recommended Size**: 600x600px (square format works best)
 - **Format**: JPEG (for better compression)
 
 ## Steps to Set Up Images
 
-1. **Save your ACHAN'S logo** as `achans-logo.jpeg` in the `images/` folder
-2. **Save your product photo** as `pootharekulu-product.jpeg` in the `images/` folder
-3. **Open the website** by double-clicking `index.html` in your browser
+1. **Save your ACHAN'S logo** as `achans-logo.jpeg` in the `public/images/` folder
+2. **Save your product photo** as `pootharekulu-product.jpeg` in the `public/images/` folder
+3. **Open the website** by double-clicking `public/index.html` in your browser
 
 ## Current Image Files in Folders
 - `images/pootharekulu-1.webp` (old placeholder - can be deleted)
