@@ -1,0 +1,14 @@
+{
+  "name": "achans-pootharekulu-website",
+  "version": "1.0.0",
+  "description": "A beautiful website for Achan's Bellam Pootharekulu - Atreyapuram Special",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": ["pootharekulu", "bellam", "atreyapuram", "indian-sweets", "jaggery", "achans"],
+  "author": "Achan's",
+  "license": "MIT",
+  "homepage": "."
+}
